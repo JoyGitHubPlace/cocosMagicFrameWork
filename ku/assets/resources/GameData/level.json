@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "level1",
+    "posX":100,
+    "posY":0
+  },
+  {
+    "id": 1,
+    "name": "level2",
+    "posX":200,
+    "posY":0
+  },
+  {
+    "id": 2,
+    "name": "level3",
+    "posX":180,
+    "posY":0
+  },
+  {
+    "id": 3,
+    "name": "level4",
+    "posX":210,
+    "posY":0
+  },
+  {
+    "id": 4,
+    "name": "level5",
+    "posX":50,
+    "posY":0
+  },
+  {
+    "id": 5,
+    "name": "level6",
+    "posX":120,
+    "posY":0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2b2d4e66-dce8-426b-9710-71d0394c78de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 80,
+  "height": 80,
+  "platformSettings": {},
+  "subMetas": {
+    "copperTouchCrate": {
+      "ver": "1.0.4",
+      "uuid": "5ec2e362-728b-404a-aaf4-23b2e809fad1",
+      "rawTextureUuid": "2b2d4e66-dce8-426b-9710-71d0394c78de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 80,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

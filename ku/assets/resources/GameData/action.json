@@ -1,0 +1,28 @@
+[
+  {
+    
+    "name": "level1",
+    "TNum":1000
+
+  },
+  {
+    "name": "level2",
+    "TNum":2000
+  },
+  {
+    "name": "level3",
+    "TNum":3000
+  },
+  {
+    "name": "level4",
+    "TNum":4000
+  },
+  {
+    "name": "level5",
+    "TNum":5000
+  },
+  {
+    "name": "level6",
+    "TNum":6000
+  }
+]
